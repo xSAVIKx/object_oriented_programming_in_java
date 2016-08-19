@@ -13,8 +13,8 @@ import processing.core.PApplet;
  * An application with two maps side-by-side zoomed in on different locations.
  * Author: UC San Diego Coursera Intermediate Programming team
  *
- * @author Your name here
- *         Date: July 17, 2015
+ * @author xSAVIKx
+ *         Date: 19.08.2016
  */
 public class HelloWorld extends PApplet {
     /**

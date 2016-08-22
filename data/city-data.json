@@ -38,7 +38,54 @@
 {"type":"Feature","properties":{"name":"Toronto", "population":"2.62", "country" : "Canada", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-79.4000, 43.7000]}},
 {"type":"Feature","properties":{"name":"Moscow", "population":"12.20", "country" : "Russia", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[37.7500, 55.7500]}},
 {"type":"Feature","properties":{"name":"Tehran", "population":"8.15", "country" : "Iran", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[51.4231, 35.6961]}},
-{"type":"Feature","properties":{"name":"Cairo", "population":"10.23", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[31.2333, 30.0500]}}
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Cairo",
+      "population": "10.23",
+      "country": "Egypt",
+      "coastal": "false"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.2333,
+        30.0500
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kiev",
+      "population": "2.9",
+      "country": "Ukraine",
+      "coastal": "false"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.2700,
+        30.3124
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Kharkiv",
+      "population": "1.43",
+      "country": "Ukraine",
+      "coastal": "false"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.0016,
+        36.1353
+      ]
+    }
+  }
 ]
 }
 
